@@ -1,5 +1,47 @@
-.special{
+.desert{
+    width: 780px;
+    height: 477px;
+    background-image: url("../images/desert780x477.jpg");
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    justify-content: center;
+    align-items: flex-end;
+    display: flex;
+}
+    .mountain{
 width: 420px;
-height: 240px;
-background-image: url(../images/stream420x240.jpg)
+height: 237px;
+background-image: url(../images/relax420x237.jpg);
+color: white;
+font-size: 30px;
+text-transform: uppercase;
+justify-content: flex-start;
+display: flex;
+align-items: flex-end;
+}
+.wilderness{
+    width: 420px;
+    height: 240px;
+    background-image: url(../images/stream420x240.jpg);
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    justify-content: flex-start;
+    align-items: flex-end;
+    display: flex;
+}
+P{
+align-items: flex-end;
+margin:0;
+}
+#top-wrapper{
+    display: flex;
+}
+#border{
+    border-bottom: 3px solid orange;
+    margin-bottom: 50px;
+   /*  margin-left: auto;
+    margin-right: auto;
+    */
 }

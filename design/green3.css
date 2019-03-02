@@ -1,0 +1,13 @@
+
+body{
+    link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet"}
+
+    nav{
+    display: flex;
+    background: gray;
+    justify-content: flex-start;
+}
+p{margin: 5px;
+    color: white;
+
+}
